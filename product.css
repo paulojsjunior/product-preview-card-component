@@ -7,15 +7,14 @@ a {
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
   height: 100vh;
   background-color: var(--color-cream);
   margin: 20px;
-}
-
-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .product {

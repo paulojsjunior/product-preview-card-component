@@ -107,7 +107,7 @@ section {
   font-family: "Montserrat";
 }
 
-@media (max-width: 400px) {
+@media (max-width: 399px) {
 
   .product {
     grid-template-columns: 1fr;

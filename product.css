@@ -35,8 +35,6 @@ img {
 
 .image-bg {
   display: flex;
-  /* height: 100vh; */
-  /* object-fit: cover; */
 }
 
 .image-bg > img {

@@ -27,6 +27,7 @@ section {
   max-width: 600px;
   margin: auto auto 20px auto;
   border-radius: 10px;
+  overflow: hidden;
 }
 
 .image-bg {

@@ -110,7 +110,7 @@ section {
 
   .product {
     grid-template-columns: 1fr;
-    max-width: 374px;
+    max-width: 375px;
   }
 
   .product-content {
